@@ -34,7 +34,11 @@ function App() {
               open-sourced on GitHub{" "}
             </a>{" "}
             and{" "}
-            <a href="" target="_blank" rel="noreferrer">
+            <a
+              href="https://iman-dictionary-homework.vercel.app/"
+              target="_blank"
+              rel="noreferrer"
+            >
               {" "}
               hosted on Vercel{" "}
             </a>
